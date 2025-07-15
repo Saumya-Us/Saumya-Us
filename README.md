@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saumya-Us
-- 🎓 SLIIT SE Undergraduate 
+- 🎓 SLIIT Undergraduate 
 
 🔹 Passionate about Web Development & Problem Solving  
 🔹 Exploring Full-Stack Development & Cloud Computing  
