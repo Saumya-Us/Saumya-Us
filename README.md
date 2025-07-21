@@ -1,24 +1,25 @@
-- 👋 Hi, I’m @Saumya-Us
-- 🎓 SLIIT Undergraduate 
+# 👋 Hi, I'm Saumya Kumari (@Saumya-Us)
 
-🔹 Passionate about Web Development & Problem Solving  
-🔹 Exploring Full-Stack Development & Cloud Computing  
-🔹 Love to learn and build cool projects  
+🎓 IT Undergraduate at **SLIIT**  
+🌱 Passionate about **Web Development**, **Problem Solving**, and exploring **Full-Stack Development** & **Cloud Computing**  
+🚀 I love building cool projects and continuously learning new technologies  
 
-- 🔥 Skills & Tech Stack  
-- 💻 Languages: c, c++, Python, Java, JavaScript  
-- 🌐 Web Dev: HTML, CSS, React, Node.js  
-- 📊 Databases: MySQL, MongoDB  
-- 🚀 Tools: Git, Postman  
+---
 
--  📫 Connect with Me  
-   [![GitHub]([https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]
+### 🔧 Tech Stack
 
- ✨ Let's build something amazing together! 🚀
+- 💻 **Languages**: C, C++, Python, Java, JavaScript  
+- 🌐 **Web Development**: HTML, CSS, React, Node.js  
+- 🗃️ **Databases**: MySQL, MongoDB  
+- ⚙️ **Tools & Platforms**: Git, GitHub, Postman, VS Code  
 
+---
 
+### 📫 Connect with Me
 
-<!---
-Saumya-Us/Saumya-Us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandali-saumya-82a15434a)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saumya-Us)
+
+---
+
+✨ Let's build something amazing together! 🚀
