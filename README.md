@@ -6,22 +6,41 @@
 
 ---
 
-## 🚀 **Cyberpunk Workspace Scene** 🚀
+## 🚀 **3D Cyberpunk Workspace Scene** 🚀
 
-### 🖥️ Kuromi's Futuristic Workspace 🖥️
+### 🖥️ Kuromi's Futuristic Neon Workspace 🖥️
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    🎀 KUROMI'S DESK 🎀                      │
-├─────────────────────────────────────────────────────────────┤
-│  📁 GitHub Repositories    │    💻 Code Editor              │
-│  ├── maxxie-fitness        │    function kuromiWorkspace() {│
-│  ├── colorcraft-studio     │      return "Cyberpunk Magic"; │
-│  └── cyberpunk-portfolio   │    }                           │
-│                            │                                │
-│  🎮 Gaming Setup:          │    ☕ Coffee Machine           │
-│  🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮    │    💻 💻 💻 💻 💻 💻 💻 💻  │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│                           🎀 KUROMI'S 3D CYBERPUNK DESK 🎀                          │
+├─────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                     │
+│  ┌─────────────────┐                    ┌─────────────────┐                        │
+│  │   📁 MONITOR 1  │                    │   💻 MONITOR 2  │                        │
+│  │  GitHub Repos   │                    │  Code Editor    │                        │
+│  │  ├── maxxie     │                    │  function() {   │                        │
+│  │  ├── colorcraft │                    │    return       │                        │
+│  │  └── portfolio  │                    │    "Magic";     │                        │
+│  │                 │                    │  }              │                        │
+│  │  🎮 🎮 🎮 🎮 🎮  │                    │  ☕ ☕ ☕ ☕ ☕ ☕  │                        │
+│  └─────────────────┘                    └─────────────────┘                        │
+│                                                                                     │
+│  ┌─────────────────────────────────────────────────────────────────────────────┐   │
+│  │                    🎀 KUROMI IN GAMER CHAIR 🎀                              │   │
+│  │                                                                             │   │
+│  │  🎀  [typing on mechanical keyboard]  🎀                                   │   │
+│  │                                                                             │   │
+│  │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐        │   │
+│  │  │   🌱 Plant  │  │  🎮 Console │  │  🎀 Plushie │  │  💡 Neon    │        │   │
+│  │  │   Shelf 1   │  │   Shelf 2   │  │   Shelf 3   │  │   Shelf 4   │        │   │
+│  │  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────┘        │   │
+│  └─────────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                     │
+│  ┌─────────────────────────────────────────────────────────────────────────────┐   │
+│  │                    🌟 FLOATING HOLOGRAPHIC ICONS 🌟                        │   │
+│  │  [JS] [React] [Node] [Mongo] [Git] [Figma] [Adobe] [Java] [Python] [Docker] │   │
+│  └─────────────────────────────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -51,19 +70,19 @@
 
 ---
 
-## 🎮 **Kuromi's Character Collection** 🎮
+## 🎮 **Kuromi's 3D Character Collection** 🎮
 
 <div align="center">
   
   | 🎀 Kuromi Typing | ☕ Coffee Break | 🏃‍♀️ Running | 🦘 Jumping | 👀 Peeking |
   |:---:|:---:|:---:|:---:|:---:|
-  | ![Kuromi Typing](https://img.shields.io/badge/🎀_Kuromi_Typing-ff69b4?style=for-the-badge&logoColor=white) | ![Coffee Break](https://img.shields.io/badge/☕_Coffee_Break-8a2be2?style=for-the-badge&logoColor=white) | ![Running](https://img.shields.io/badge/🏃‍♀️_Running-00ffff?style=for-the-badge&logoColor=white) | ![Jumping](https://img.shields.io/badge/🦘_Jumping-ff69b4?style=for-the-badge&logoColor=white) | ![Peeking](https://img.shields.io/badge/👀_Peeking-8a2be2?style=for-the-badge&logoColor=white) |
+  | ![Kuromi Typing](https://img.shields.io/badge/🎀_Kuromi_Typing_on_Keyboard-ff69b4?style=for-the-badge&logoColor=white) | ![Coffee Break](https://img.shields.io/badge/☕_Kuromi_Coffee_Break-8a2be2?style=for-the-badge&logoColor=white) | ![Running](https://img.shields.io/badge/🏃‍♀️_Kuromi_Running_Mischievously-00ffff?style=for-the-badge&logoColor=white) | ![Jumping](https://img.shields.io/badge/🦘_Kuromi_Jumping_Between_Platforms-ff69b4?style=for-the-badge&logoColor=white) | ![Peeking](https://img.shields.io/badge/👀_Kuromi_Peeking_from_Tech_Gadgets-8a2be2?style=for-the-badge&logoColor=white) |
   
 </div>
 
 ---
 
-## 💻 **Tech Stack Holograms** 💻
+## 💻 **Floating Holographic Tech Stack** 💻
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -166,6 +185,18 @@ kuromi@cyberpunk:~$ ./start-coding.sh
 01000011 01111001 01100010 01100101 01110010 01110000 01110101 01101110 01101011
 01000100 01101001 01100111 01101001 01110100 01100001 01101100 01010010 01100101 01100001 01101100 01101101
 ```
+
+---
+
+## 🎮 **3D Pixel Art Collection** 🎮
+
+<div align="center">
+  
+  | 🌱 Plant Shelf | 🎮 Gaming Console | 🎀 Kuromi Plushie | 💡 Neon Light |
+  |:---:|:---:|:---:|:---:|
+  | ![Plant](https://img.shields.io/badge/🌱_Pixel_Plant_Shelf-00ff00?style=for-the-badge&logoColor=white) | ![Console](https://img.shields.io/badge/🎮_Gaming_Console-ff69b4?style=for-the-badge&logoColor=white) | ![Plushie](https://img.shields.io/badge/🎀_Kuromi_Plushie-8a2be2?style=for-the-badge&logoColor=white) | ![Neon](https://img.shields.io/badge/💡_Neon_Light-00ffff?style=for-the-badge&logoColor=white) |
+  
+</div>
 
 ---
 
