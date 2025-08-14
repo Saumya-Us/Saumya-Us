@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made_with_💜_by_Kuromi-8a2be2?style=for-the-badge&logoColor=white" alt="Made with love by Saumya" />
+  <img src="https://img.shields.io/badge/Made_with_💜_by_Saumya-8a2be2?style=for-the-badge&logoColor=white" alt="Made with love by Saumya" />
   
   <p style="color: #8a2be2; font-size: 14px; margin-top: 20px;">
     🌙 Welcome to my digital realm! 🌙
@@ -84,7 +84,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/🎀_Kuromi_Power-8a2be2?style=for-the-badge&logoColor=white" alt="Cute Power" />
+        <img src="https://img.shields.io/badge/🎀_Code_Power-8a2be2?style=for-the-badge&logoColor=white" alt="Cute Power" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/💻_Code_Magic-9370db?style=for-the-badge&logoColor=white" alt="Code Magic" />
