@@ -1,4 +1,3 @@
-#  Kuromi's Digital Garden 
 
 ## Hello! I'm Saumya Kumari
 
