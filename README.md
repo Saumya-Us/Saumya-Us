@@ -26,14 +26,14 @@
 
 ---
 
-## 📊 **GitHub Stats with Purple Glow** 📊
+## 📊 **GitHub Stats with Purple Gradient** 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=8a2be2&title_color=8a2be2&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=9370db&title_color=dda0dd&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Us&theme=radical&background=0d1117&stroke=8a2be2&ring=8a2be2&fire=8a2be2&currStreakNum=8a2be2&sideNums=8a2be2&currStreakLabel=8a2be2&sideLabels=8a2be2&dates=8a2be2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Us&theme=radical&background=0d1117&stroke=8a2be2&ring=9370db&fire=dda0dd&currStreakNum=8a2be2&sideNums=9370db&currStreakLabel=dda0dd&sideLabels=8a2be2&dates=9370db" alt="GitHub Streak" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Us&theme=radical&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area_color=8a2be2&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Us&theme=radical&bg_color=0d1117&color=8a2be2&line=9370db&point=dda0dd&area_color=dda0dd&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -42,11 +42,11 @@
 
 <div align="center">
   <a href="https://github.com/Saumya-Us/Maxxie_Fitness_Management_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saumya-Us&repo=Maxxie_Fitness_Management_System&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=8a2be2&title_color=8a2be2&hide_border=true" alt="Maxxie Fitness Management System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saumya-Us&repo=Maxxie_Fitness_Management_System&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=9370db&title_color=dda0dd&hide_border=true" alt="Maxxie Fitness Management System" />
   </a>
   
   <a href="https://github.com/Saumya-Us/ColorCraft_Studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saumya-Us&repo=ColorCraft_Studio&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=8a2be2&title_color=8a2be2&hide_border=true" alt="ColorCraft Studio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saumya-Us&repo=ColorCraft_Studio&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=9370db&title_color=dda0dd&hide_border=true" alt="ColorCraft Studio" />
   </a>
 </div>
 
@@ -78,7 +78,7 @@
   </p>
   
   <div style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=Saumya-Us&style=flat-square&color=8a2be2" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Saumya-Us&style=flat-square&color=9370db" alt="Profile Views" />
   </div>
   
   <!-- Cyberpunk Footer Grid -->
@@ -88,10 +88,10 @@
         <img src="https://img.shields.io/badge/🎀_Kuromi_Power-8a2be2?style=for-the-badge&logoColor=white" alt="Kuromi Power" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/💻_Code_Magic-8a2be2?style=for-the-badge&logoColor=white" alt="Code Magic" />
+        <img src="https://img.shields.io/badge/💻_Code_Magic-9370db?style=for-the-badge&logoColor=white" alt="Code Magic" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/🚀_Future_Ready-8a2be2?style=for-the-badge&logoColor=white" alt="Future Ready" />
+        <img src="https://img.shields.io/badge/🚀_Future_Ready-dda0dd?style=for-the-badge&logoColor=white" alt="Future Ready" />
       </td>
     </tr>
   </table>
