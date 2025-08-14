@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 ** GitHub Stats ** 📊
+## 📊 **GitHub Stats** 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=ff69b4&icon_color=ff69b4&title_color=ff69b4&hide_border=true" alt="GitHub Stats" />
