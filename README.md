@@ -145,7 +145,7 @@
 
 ---
 
-## 🔗 **Connect with Kuromi** 🔗
+## 🔗 **Connect with Me** 🔗
 
 <div align="center">
   <a href="https://linkedin.com/in/sandali-saumya-82a15434a/">
