@@ -1,7 +1,7 @@
 # 🖤 Kuromi's Cyberpunk Digital Realm 🖤
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=ff69b4&size=35&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Saumya+Kumari+%F0%9F%91%8B;Welcome+to+my+cyberpunk+workspace!; Full-Stack+Developer+%7C+Creative+Coder+%7C+UI/UX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=ff69b4&size=35&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Saumya+Kumari+%F0%9F%91%8B;Welcome+to+my+cyberpunk+workspace!;Full Stack+Developer+%7C+Creative+Coder+%7C+UI/UX+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
