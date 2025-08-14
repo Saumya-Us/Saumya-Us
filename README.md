@@ -1,7 +1,7 @@
 # 🖤 Kuromi's Cyberpunk Digital Realm 🖤
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=8a2be2&size=35&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Saumya+Kumari+%F0%9F%91%8B;Welcome+to+my+cyberpunk+workspace!;Full-Stack+Developer+%7C+Creative+Coder+%7C+Kuromi+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=ff69b4&size=35&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Saumya+Kumari+%F0%9F%91%8B;Welcome+to+my+cyberpunk+workspace!;Full-Stack+Developer+%7C+Creative+Coder+%7C+Kuromi+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -26,14 +26,14 @@
 
 ---
 
-## 📊 **GitHub Stats with Purple Glow** 📊
+## 📊 **GitHub Stats with Neon Glow** 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=8a2be2&title_color=8a2be2&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=ff69b4&icon_color=8a2be2&title_color=00ffff&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Us&theme=radical&background=0d1117&stroke=8a2be2&ring=8a2be2&fire=8a2be2&currStreakNum=8a2be2&sideNums=8a2be2&currStreakLabel=8a2be2&sideLabels=8a2be2&dates=8a2be2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Us&theme=radical&background=0d1117&stroke=ff69b4&ring=8a2be2&fire=00ffff&currStreakNum=ff69b4&sideNums=8a2be2&currStreakLabel=00ffff&sideLabels=ff69b4&dates=8a2be2" alt="GitHub Streak" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Us&theme=radical&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area_color=8a2be2&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Us&theme=radical&bg_color=0d1117&color=ff69b4&line=8a2be2&point=00ffff&area_color=ff69b4&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -41,11 +41,13 @@
 ## 🎯 **Featured Projects** 🎯
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_Coming_Soon-Purple_Projects-8a2be2?style=for-the-badge&logoColor=white" alt="Coming Soon" />
+  <a href="https://github.com/Saumya-Us/Maxxie_Fitness_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saumya-Us&repo=Maxxie_Fitness_Management_System&theme=radical&bg_color=0d1117&text_color=ff69b4&icon_color=8a2be2&title_color=00ffff&hide_border=true" alt="Maxxie Fitness Management System" />
+  </a>
   
-  <p style="color: #8a2be2; font-size: 16px; margin-top: 20px;">
-    🌟 Amazing projects are in development! 🌟
-  </p>
+  <a href="https://github.com/Saumya-Us/ColorCraft_Studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saumya-Us&repo=ColorCraft_Studio&theme=radical&bg_color=0d1117&text_color=ff69b4&icon_color=8a2be2&title_color=00ffff&hide_border=true" alt="ColorCraft Studio" />
+  </a>
 </div>
 
 ---
@@ -69,9 +71,9 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made_with_💜_by_Kuromi-8a2be2?style=for-the-badge&logoColor=white" alt="Made with love by Kuromi" />
+  <img src="https://img.shields.io/badge/Made_with_💜_by_Kuromi-ff69b4?style=for-the-badge&logoColor=white" alt="Made with love by Kuromi" />
   
-  <p style="color: #8a2be2; font-size: 14px; margin-top: 20px;">
+  <p style="color: #ff69b4; font-size: 14px; margin-top: 20px;">
     🌙 Welcome to my cyberpunk digital realm! 🌙
   </p>
   
@@ -83,13 +85,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/🎀_Kuromi_Power-8a2be2?style=for-the-badge&logoColor=white" alt="Kuromi Power" />
+        <img src="https://img.shields.io/badge/🎀_Kuromi_Power-ff69b4?style=for-the-badge&logoColor=white" alt="Kuromi Power" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/💻_Code_Magic-8a2be2?style=for-the-badge&logoColor=white" alt="Code Magic" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/🚀_Future_Ready-8a2be2?style=for-the-badge&logoColor=white" alt="Future Ready" />
+        <img src="https://img.shields.io/badge/🚀_Future_Ready-00ffff?style=for-the-badge&logoColor=white" alt="Future Ready" />
       </td>
     </tr>
   </table>
