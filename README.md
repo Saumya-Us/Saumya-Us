@@ -1,12 +1,12 @@
-# 🖤 Kuromi's Cyberpunk Digital Realm 🖤
+# 🖤 Saumya's Digital Realm 🖤
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=ff69b4&size=35&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Saumya+Kumari+%F0%9F%91%8B;Welcome+to+my+cyberpunk+workspace!;Full-Stack+Developer+%7C+Creative+Coder+%7C+Kuromi+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=ff69b4&size=35&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Saumya+Kumari+%F0%9F%91%8B;Welcome+to+my+cyberpunk+workspace!;Full+Stack+Developer+%7C+Creative+Coder+%7C+UI/UX+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
-## 💻 **Floating Holographic Tech Stack** 💻
+## 💻 **Tech Stack** 💻
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -21,12 +21,11 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 ---
 
-## 📊 **GitHub Stats with Neon Glow** 📊
+## 📊 **GitHub Stats ** 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=ff69b4&icon_color=ff69b4&title_color=ff69b4&hide_border=true" alt="GitHub Stats" />
@@ -71,10 +70,10 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made_with_💜_by_Kuromi-ff69b4?style=for-the-badge&logoColor=white" alt="Made with love by Kuromi" />
+  <img src="https://img.shields.io/badge/Made_with_💜_by_Saumya-ff69b4?style=for-the-badge&logoColor=white" alt="Made with love by Saumya" />
   
   <p style="color: #ff69b4; font-size: 14px; margin-top: 20px;">
-    🌙 Welcome to my cyberpunk digital realm! 🌙
+    🌙 Welcome to my digital realm! 🌙
   </p>
   
   <div style="margin-top: 20px;">
@@ -85,7 +84,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/🎀_Kuromi_Power-ff69b4?style=for-the-badge&logoColor=white" alt="Kuromi Power" />
+        <img src="https://img.shields.io/badge/🎀_Saumya_Power-ff69b4?style=for-the-badge&logoColor=white" alt="Saumya Power" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/💻_Code_Magic-8a2be2?style=for-the-badge&logoColor=white" alt="Code Magic" />
