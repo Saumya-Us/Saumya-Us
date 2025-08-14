@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/💻_Leveling_Up-Java_%7C_Oracle_%7C_Docker-ff69b4?style=for-the-badge&logoColor=white" alt="Skills" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/📧_Reach_Me-kumodnenuk%40gmail.com-ff69b4?style=for-the-badge&logoColor=white" alt="Contact" />
+        <img src="https://img.shields.io/badge/📧_Reach_Me-sndlsaumya%40gmail.com-ff69b4?style=for-the-badge&logoColor=white" alt="Contact" />
       </td>
     </tr>
   </table>
@@ -120,7 +120,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <a href="mailto:kumodnenuk@gmail.com">
+  <a href="mailto:sndlsaumya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
