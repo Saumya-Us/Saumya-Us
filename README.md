@@ -8,8 +8,6 @@
 
 ## 🚀 **Kuromi's Pixel Art Cyberpunk Workspace** 🚀
 
-### 🎀 **Kuromi's Gaming Sanctuary** 🎀
-
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
 │                              🎀 KUROMI'S PIXEL ART DESK 🎀                                 │
@@ -59,43 +57,6 @@
 │  └─────────────────────────────────────────────────────────────────────────────────────┘   │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 🌟 **Kuromi's Current Adventures** 🌟
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/🌱_Currently_Learning-Spring_Boot_%7C_React_Native-ff69b4?style=for-the-badge&logoColor=white" alt="Learning" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🏗️_Building-Amazing_ERP_System-ff69b4?style=for-the-badge&logoColor=white" alt="Building" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/💻_Leveling_Up-Java_%7C_Oracle_%7C_Docker-ff69b4?style=for-the-badge&logoColor=white" alt="Skills" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/📧_Reach_Me-sndlsaumya%40gmail.com-ff69b4?style=for-the-badge&logoColor=white" alt="Contact" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎮 **Kuromi's Character Collection** 🎮
-
-<div align="center">
-  
-  | 🎀 Kuromi Typing | ☕ Coffee Break | 🏃‍♀️ Running | 🦘 Jumping | 👀 Peeking |
-  |:---:|:---:|:---:|:---:|:---:|
-  | ![Kuromi Typing](https://img.shields.io/badge/🎀_Kuromi_Typing_on_Keyboard-ff69b4?style=for-the-badge&logoColor=white) | ![Coffee Break](https://img.shields.io/badge/☕_Kuromi_Coffee_Break-8a2be2?style=for-the-badge&logoColor=white) | ![Running](https://img.shields.io/badge/🏃‍♀️_Kuromi_Running_Mischievously-00ffff?style=for-the-badge&logoColor=white) | ![Jumping](https://img.shields.io/badge/🦘_Kuromi_Jumping_Between_Platforms-ff69b4?style=for-the-badge&logoColor=white) | ![Peeking](https://img.shields.io/badge/👀_Kuromi_Peeking_from_Tech_Gadgets-8a2be2?style=for-the-badge&logoColor=white) |
-  
-</div>
 
 ---
 
@@ -159,60 +120,6 @@
   <a href="mailto:sndlsaumya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
----
-
-## 💻 **Cyberpunk Terminal** 💻
-
-```
-root@kuromi-workspace:~$ █
-
-kuromi@cyberpunk:~$ whoami
-Saumya Kumari - Full-Stack Developer
-
-kuromi@cyberpunk:~$ cat skills.txt
-Frontend: React, JavaScript, HTML/CSS
-Backend: Node.js, Java, Python
-Database: MongoDB, MySQL
-Tools: Git, Docker, Figma
-
-kuromi@cyberpunk:~$ ./start-coding.sh
-🚀 Initializing cyberpunk development environment...
-🎀 Kuromi mode: ACTIVATED
-💜 Ready to create digital magic!
-```
-
----
-
-## 🌙 **Kuromi's Tech Sanctuary** 🌙
-
-### 🖤 Current Status 🖤
-
-| 🎓 Education | 🚀 Focus | 💡 Passion |
-|:---:|:---:|:---:|
-| IT Undergraduate at SLIIT | Full-Stack Development & Cloud Computing | Web Development & Problem Solving |
-
----
-
-## ✨ **Matrix Code Rain** ✨
-
-```
-01001011 01110101 01110010 01101111 01101101 01101001
-01000011 01111001 01100010 01100101 01110010 01110000 01110101 01101110 01101011
-01000100 01101001 01100111 01101001 01110100 01100001 01101100 01010010 01100101 01100001 01101100 01101101
-```
-
----
-
-## 🎮 **Pixel Art Collection** 🎮
-
-<div align="center">
-  
-  | 🌱 Plant Shelf | 🎮 Gaming Console | 🎀 Kuromi Plushie | 💡 Neon Light |
-  |:---:|:---:|:---:|:---:|
-  | ![Plant](https://img.shields.io/badge/🌱_Pixel_Plant_Shelf-00ff00?style=for-the-badge&logoColor=white) | ![Console](https://img.shields.io/badge/🎮_Gaming_Console-ff69b4?style=for-the-badge&logoColor=white) | ![Plushie](https://img.shields.io/badge/🎀_Kuromi_Plushie-8a2be2?style=for-the-badge&logoColor=white) | ![Neon](https://img.shields.io/badge/💡_Neon_Light-00ffff?style=for-the-badge&logoColor=white) |
-  
 </div>
 
 ---
