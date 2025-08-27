@@ -29,14 +29,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=9370db&title_color=dda0dd&hide_border=true" alt="GitHub Stats" />
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=9370db&title_color=dda0dd&hide_border=true" alt="GitHub Stats" />
-
-  <img src="https://streak-stats.demolab.com?user=Saumya-Us&theme=radical&background=0d1117&stroke=8a2be2&ring=9370db&fire=dda0dd&currStreakNum=8a2be2&sideNums=9370db&currStreakLabel=dda0dd&sideLabels=8a2be2&dates=9370db" alt="GitHub Streak" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Us&theme=radical&bg_color=0d1117&color=8a2be2&line=9370db&point=dda0dd&area_color=dda0dd&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
+ 
 </div>
 
 ---
