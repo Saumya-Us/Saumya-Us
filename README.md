@@ -1,12 +1,6 @@
 # 🖤 Saumya's Digital Realm 🖤
 
 <div align="center">
-  <!-- Kuromi Cyberpunk Header -->
-  <img src="https://i.pinimg.com/originals/2e/58/3f/2e583f7a2a5d34a01d07c3fcb1d5f86d.gif" width="300" alt="Kuromi Cyberpunk" />
-
-  <br/>
-
-  <!-- Animated Typing Intro -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=8a2be2&size=35&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Saumya+Kumari+%F0%9F%91%8B;Welcome+to+my+workspace!;Full-Stack+Developer+%7C+UI/UX+Enthusiast" alt="Typing SVG" />
 </div>
 
@@ -34,11 +28,11 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=9370db&title_color=dda0dd&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Us&show_icons=true&theme=radical&bg_color=0d1117&text_color=8a2be2&icon_color=9370db&title_color=dda0dd&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Us&theme=radical&background=0d1117&stroke=8a2be2&ring=9370db&fire=dda0dd&currStreakNum=8a2be2&sideNums=9370db&currStreakLabel=dda0dd&sideLabels=8a2be2&dates=9370db" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Us&theme=radical&background=0d1117&stroke=8a2be2&ring=9370db&fire=dda0dd&currStreakNum=8a2be2&sideNums=9370db&currStreakLabel=dda0dd&sideLabels=8a2be2&dates=9370db" alt="GitHub Streak" />
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Saumya-Us&theme=radical&bg_color=0d1117&color=8a2be2&line=9370db&point=dda0dd&area_color=dda0dd&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Saumya-Us&theme=radical&bg_color=0d1117&color=8a2be2&line=9370db&point=dda0dd&area_color=dda0dd&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -74,9 +68,8 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made_with_💜_by_Saumya-8a2be2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made_with_💜_by_Saumya-8a2be2?style=for-the-badge&logoColor=white" />
   
-  <br/><br/>
   🌙 *Welcome to my digital realm!* 🌙
   
   <br/><br/>
@@ -86,16 +79,4 @@
   <img src="https://img.shields.io/badge/🎀_Code_Power-8a2be2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💻_Code_Magic-9370db?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀_Future_Ready-dda0dd?style=for-the-badge" />
-
-  <br/><br/>
-
-  <!-- GitHub Snake Animation -->
-  <img src="https://github.com/Saumya-Us/Saumya-Us/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <!-- Kuromi Goodbye GIF -->
-  <img src="https://i.pinimg.com/originals/29/36/47/2936477e7882cf2491091e57a97dc0a7.gif" width="200" alt="Kuromi Bye" />
 </div>
