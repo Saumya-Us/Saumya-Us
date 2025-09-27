@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400" alt="Coding animation" />
-  <br>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Hello" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500" alt="Coding animation" />
 </div>
 
 <div align="center">
@@ -22,19 +20,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🖤🎀 I'm a passionate **Full-Stack Developer** with a love for creating intuitive user experiences and exploring the frontiers of **AI technology**. My journey in tech spans across multiple domains - from crafting pixel-perfect **UI/UX designs** to building robust backend systems.
+I'm a passionate **Full-Stack Developer** with a love for creating intuitive user experiences and exploring the frontiers of **AI technology**. My journey in tech spans across multiple domains - from crafting pixel-perfect **UI/UX designs** to building robust backend systems.
 
 🌟 **What drives me:**
-- 🎨 Designing user-centric digital experiences  
+- 🎨 Designing user-centric digital experiences
 - 🤖 Exploring AI/ML applications in web development
 - 💡 Turning complex problems into elegant solutions
 - 🚀 Building scalable, performant applications
 
-🖤 **Fun fact:** I code with Kuromi vibes - a little rebellious, always creative! 🎀
-
-📍 **Currently:** Open to exciting opportunities and collaborations 🖤  
-🎯 **Goal:** Contributing to innovative projects that make a difference  
-🎀 **Kuromi Motto:** "Stay curious, code fearlessly, design beautifully"
+📍 **Currently:** Open to exciting opportunities and collaborations  
+🎯 **Goal:** Contributing to innovative projects that make a difference
 
 ---
 
@@ -48,6 +43,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -60,19 +56,16 @@
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -132,8 +125,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-  <br>
-  🖤🎀 **Coding with Kuromi Energy** 🎀🖤
 </div>
 
 <table align="center">
@@ -163,8 +154,6 @@
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-  
-  🖤🎀 **Let's create something amazing together!** 🎀🖤
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandali-saumya-82a15434a/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saumya-Us)
