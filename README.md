@@ -13,23 +13,37 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td>
+
+**🎯 Current Focus**  
+Building seamless user experiences with modern web technologies
+
+**💻 I work with**  
+JavaScript • Python • Java • Kotlin • PHP
+
+**🔧 Ask me about**  
+Web Development • Mobile Apps • UI/UX Design • Database Architecture
+
+**⚡ Fun fact**  
+I debug with coffee and solve problems with creativity ☕
+
+</td>
+<td>
+
 ```javascript
 const saumya = {
-    pronouns: "she/her",
-    code: ["JavaScript", "Python", "Java", "Kotlin", "PHP"],
-    askMeAbout: ["web dev", "app dev", "UI/UX", "database design"],
-    technologies: {
-        frontend: ["React", "HTML5", "CSS3", "JavaScript ES6+"],
-        backend: ["Node.js", "PHP", "Python"],
-        mobile: ["Kotlin", "Android Development"],
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "Figma", "Adobe Creative Suite"],
-        architecture: ["REST APIs", "Microservices"]
-    },
-    currentFocus: "Building seamless user experiences with modern web technologies",
-    funFact: "I debug with coffee and solve problems with creativity ☕"
+  pronouns: "she/her",
+  code: "Full-Stack Developer",
+  focus: "User Experience",
+  coffee: "Required for debugging"
 };
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
