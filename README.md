@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d8/5a/23/d85a23495bb15deded16415d5c14e0fa.gif" width="400" alt="Kuromi coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400" alt="Coding animation" />
+  <br>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Hello" />
 </div>
 
 <div align="center">
@@ -18,18 +20,21 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Kuromi coding" width="350" src="https://i.pinimg.com/originals/82/ff/4f/82ff4f4b5c3b9eaf774c264b72c1e7ea.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **Full-Stack Developer** with a love for creating intuitive user experiences and exploring the frontiers of **AI technology**. My journey in tech spans across multiple domains - from crafting pixel-perfect **UI/UX designs** to building robust backend systems.
+🖤🎀 I'm a passionate **Full-Stack Developer** with a love for creating intuitive user experiences and exploring the frontiers of **AI technology**. My journey in tech spans across multiple domains - from crafting pixel-perfect **UI/UX designs** to building robust backend systems.
 
 🌟 **What drives me:**
-- 🎨 Designing user-centric digital experiences
+- 🎨 Designing user-centric digital experiences  
 - 🤖 Exploring AI/ML applications in web development
 - 💡 Turning complex problems into elegant solutions
 - 🚀 Building scalable, performant applications
 
-📍 **Currently:** Open to exciting opportunities and collaborations  
-🎯 **Goal:** Contributing to innovative projects that make a difference
+🖤 **Fun fact:** I code with Kuromi vibes - a little rebellious, always creative! 🎀
+
+📍 **Currently:** Open to exciting opportunities and collaborations 🖤  
+🎯 **Goal:** Contributing to innovative projects that make a difference  
+🎀 **Kuromi Motto:** "Stay curious, code fearlessly, design beautifully"
 
 ---
 
@@ -126,7 +131,9 @@ I'm a passionate **Full-Stack Developer** with a love for creating intuitive use
 ## 💼 Professional Journey
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f1/46/b4/f146b4b67710c5bf8b1a9bb2ee1e0099.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+  <br>
+  🖤🎀 **Coding with Kuromi Energy** 🎀🖤
 </div>
 
 <table align="center">
@@ -155,7 +162,9 @@ I'm a passionate **Full-Stack Developer** with a love for creating intuitive use
 
 <div align="center">
   
-  <img src="https://i.pinimg.com/originals/2a/54/87/2a5487d43084d5b8f9a4e34ad5aadb80.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  
+  🖤🎀 **Let's create something amazing together!** 🎀🖤
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandali-saumya-82a15434a/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saumya-Us)
