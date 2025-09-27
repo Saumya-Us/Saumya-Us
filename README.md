@@ -109,32 +109,6 @@ I'm a passionate **Full-Stack Developer** with a love for creating intuitive use
 
 ---
 
-## 💼 Professional Journey
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
-  <b>Full-Stack Development</b><br>
-  Building end-to-end solutions with modern technologies
-</td>
-<td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
-  <b>AI Integration</b><br>
-  Incorporating AI/ML capabilities into web applications
-</td>
-<td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-  <b>UI/UX Design</b><br>
-  Creating intuitive and beautiful user interfaces
-</td>
-</tr>
-</table>
-
 ### 🚀 My Development Expertise
 
 <table>
@@ -172,26 +146,6 @@ I'm a passionate **Full-Stack Developer** with a love for creating intuitive use
 </div>
 
 ---
-
-## 📈 My Development Process
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
-</div>
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[💡 Ideation] --> B[🎨 Design]
-    B --> C[⚡ Development]
-    C --> D[🧪 Testing]
-    D --> E[🚀 Deployment]
-    E --> F[🔄 Iteration]
-    F --> A
-```
-
-</div>
 
 ---
 
