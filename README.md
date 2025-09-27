@@ -109,6 +109,74 @@ I'm a passionate **Full-Stack Developer** with a love for creating intuitive use
 
 ---
 
+## 💼 Professional Journey
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+</div>
+
+<div align="center">
+
+### 🚀 My Development Expertise
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
+  <br><br>
+  <h3>🌐 Full-Stack Development</h3>
+  <p>Building scalable web applications with modern frameworks and best practices. From responsive frontends to robust backend APIs.</p>
+  <br>
+  <strong>Technologies:</strong><br>
+  React • Node.js • MongoDB • Express
+</td>
+<td align="center" width="33%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120">
+  <br><br>
+  <h3>🤖 AI Integration</h3>
+  <p>Implementing machine learning solutions and AI capabilities into web applications for enhanced user experiences.</p>
+  <br>
+  <strong>Technologies:</strong><br>
+  Python • TensorFlow • FastAPI • ML Models
+</td>
+<td align="center" width="33%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
+  <br><br>
+  <h3>🎨 UI/UX Design</h3>
+  <p>Creating intuitive and visually appealing interfaces that provide exceptional user experiences across all devices.</p>
+  <br>
+  <strong>Tools:</strong><br>
+  Figma • Adobe Suite • Tailwind CSS
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 My Development Process
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
+</div>
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[💡 Ideation] --> B[🎨 Design]
+    B --> C[⚡ Development]
+    C --> D[🧪 Testing]
+    D --> E[🚀 Deployment]
+    E --> F[🔄 Iteration]
+    F --> A
+```
+
+</div>
+
+---
+
 ## 🏆 Achievements & Activity
 
 <div align="center">
@@ -118,34 +186,6 @@ I'm a passionate **Full-Stack Developer** with a love for creating intuitive use
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saumya-Us&theme=onestar&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </div>
-
----
-
-## 💼 Professional Journey
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
-  <b>Full-Stack Development</b><br>
-  Building end-to-end solutions with modern technologies
-</td>
-<td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
-  <b>AI Integration</b><br>
-  Incorporating AI/ML capabilities into web applications
-</td>
-<td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ccb2f.gif" width="100"><br>
-  <b>UI/UX Design</b><br>
-  Creating intuitive and beautiful user interfaces
-</td>
-</tr>
-</table>
 
 ---
 
